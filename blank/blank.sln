@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hw_01_assets", "hw_01_assets", "{45EBDE79-5E3C-4179-99CE-95E4F97B433A}"
+	ProjectSection(SolutionItems) = preProject
+		hw_01_assets\alghoritm-description.drawio = hw_01_assets\alghoritm-description.drawio
+		hw_01_assets\block-schema.drawio = hw_01_assets\block-schema.drawio
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
